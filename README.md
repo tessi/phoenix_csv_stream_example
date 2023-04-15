@@ -34,7 +34,7 @@ Average download speed is 33M/s (compressed) or 91M/s (uncompressed) on my machi
 It's not super beautiful code -- all code is implemented in the controller `lib/csv_stream_web/controllers/user_controller.ex`.
 Upside is, that it's easy to see what the code does in one spot :)
 
-## Sources
+## Hat tips 🎩 
 
 * [Great blog post about a performant way to stream CSV from postgres](https://joaquimadraz.com/csv-export-with-postgres-ecto-and-phoenix)
 * [Great library to ZIP content streams](https://github.com/ne-sachirou/stream_gzip)
